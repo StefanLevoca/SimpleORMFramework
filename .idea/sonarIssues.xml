@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/out/artifacts/SimpleORMFramework_jar/SimpleORMFramework.jar!/sk/jaro/simpleormframework/reflection/ObjectReflector.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/sk/jaro/anotacie/Tabulka.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/sk/jaro/fiktivnyprogram/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/sk/jaro/fiktivnyprogram/entity/Film.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/sk/jaro/fiktivnyprogram/entity/Osoba.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/sk/jaro/simpleormframework/annotations/AnnotationMissingException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/sk/jaro/simpleormframework/anotacie/Id.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/sk/jaro/simpleormframework/anotacie/Stlpec.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/sk/jaro/simpleormframework/anotacie/Tabulka.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/sk/jaro/simpleormframework/dbaccess/DatabaseAccess.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/sk/jaro/simpleormframework/dbaccess/PropertiesReader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/sk/jaro/simpleormframework/dbaccess/ResultSetImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/sk/jaro/simpleormframework/dbaccess/SormManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/sk/jaro/simpleormframework/reflection/ObjectReflector.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/sk/jaro/simpleormframework/sql/SqlBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/sk/jaro/simpleormframework/vynimky/MissingIdException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/sk/jaro/simpleormframework/vynimky/MissingStlpecAnnotationException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/work/prolik/merge workspace/Java2/src/sk/jaro/database/OsobaDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/work/prolik/merge workspace/Java2/src/sk/jaro/utils/Auto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/work/prolik/merge workspace/Java2/src/sk/jaro/utils/Osoba.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/work/prolik/merge workspace/Java2/src/sorm.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
